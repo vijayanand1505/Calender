@@ -1,4 +1,4 @@
-const currentYear = 2023;
+const currentYear = 2023; 
 const weekDays = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
 const months = [
 	'January',
